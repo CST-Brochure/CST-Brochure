@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#014c64"
+    android:backgroundTint="@android:color/holo_blue_light"
+    android:orientation="vertical"
+    tools:context="com.example.sonam.cstbrochurenav.Architecture">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="363dp"
+            android:layout_height="152dp"
+            android:gravity="center"
+            android:paddingTop="20dp"
+            android:src="@drawable/cstlogo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="TimesNewRoman"
+            android:gravity="center"
+            android:paddingTop="30dp"
+            android:text="Special Awards\n"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textColor="#ffff"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:text="@string/app"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+            android:textColor="#ffff" />
+
+    </LinearLayout>
+
+
+</ScrollView>

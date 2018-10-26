@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/award"
+            android:icon="@drawable/ic_award"
+            android:title="Award" />
+        <item
+            android:id="@+id/missionVision"
+            android:icon="@drawable/mission"
+            android:title="Mission Vision" />
+        <item
+            android:id="@+id/rule"
+            android:icon="@drawable/rules"
+            android:title="Rules and Regulation" />
+        <item
+            android:id="@+id/club"
+            android:icon="@drawable/club"
+            android:title="Clubs" />
+        <item
+            android:id="@+id/student"
+            android:icon="@drawable/student"
+            android:title="Student Activities" />
+        <item
+            android:id="@+id/department"
+            android:icon="@drawable/deaprtment"
+            android:title="Department">
+            <menu>
+                <item
+                    android:id="@+id/Architecture"
+                    android:icon="@drawable/archi"
+                    android:title="Architecture" />
+                <item
+                    android:id="@+id/civil"
+                    android:icon="@drawable/civil"
+                    android:title="Civil Engineering" />
+                <item
+                    android:id="@+id/electrical"
+                    android:icon="@drawable/elec"
+                    android:title="Electrical Engineering" />
+                <item
+                    android:id="@+id/ece"
+                    android:icon="@drawable/ece"
+                    android:title="ECE Engineering" />
+                <item
+                    android:id="@+id/it"
+                    android:icon="@drawable/it"
+                    android:title="IT Engineering" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/contact"
+            android:title="Contact Us" />
+    </group>
+</menu>

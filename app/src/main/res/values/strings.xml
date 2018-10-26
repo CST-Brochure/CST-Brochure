@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">CST BROCHURE</string>
+
+    <string name="why">CST is a place where brilliant minds assemble and collaborate,
+        where they pool together their individual talents across departments in service
+        of big ideas and creative solutions. It is a vibrant community teeming with students
+        collaborating with experts and specialists: a hub of innovation and creativity.
+        It is an intersection of diversity, a launching pad for a brilliant career,
+        and a highly unique state of mind. It is a perfect environment in which to
+         pursue your passion. Here, the future is envisioned each day.
+        And remade each day after.</string>
+
+    <string name="Fashion">Fashion Show
+        In the world of fashion and modeling, fashion shows are of extraordinary importance.
+        Their popularity has risen rapidly, becoming one of the leading events in the world of fashion.</string>
+
+    <string name="Tag">Tag night is a time where we get to dance with the person you admire the most by giving tag to them :) </string>
+
+    <string name="Intro">Introduction Night is conducted esecially for the freshers so that they can show their talent
+        and to introduce themselves</string>
+
+    <string name="Prayer">Whether we pray aloud or pray silently in our hearts in fleeting moments of need,
+        prayer is a personal form of communication where we can speak directly with our Father in Heaven.</string>
+
+    <string name="Diwali">The festival gets its name from the row (avali) of clay lamps (deepa) that southern bhutanses light outside their homes to symbolize the inner light that protects from spiritual darkness.</string>
+    <string name="title_activity_nav">Nav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="course">Courses</string>
+    <string name="Civil">
+
+        Bachelor of Engineering in Civil Engineering takes minimum of four years full time. The programme would provide
+        access to larger numbers of suitably qualified nationals to be trained as engineers to meet the needs of Bhutan.
+        The increased supply of engineers would also support private sector growth thereby creating additional jobs and
+        strengthening the economy. The courses have been designed to meet the requirements of Bhutan’s unique engineering
+        demand. The graduates will find employment in Civil Service, Corporations and Private sector.\n\n
+
+    The programme aims to be innovative in course and curriculum development in order\n\n
+
+    i. To attract and recruit students of good academic ability and potential from all social groups.\n\n
+    ii. To develop the potential of each student to meet new challenges and to lay the foundation of versatility of
+        thinking they will need in careers as professional engineers.\n\n
+    iii. To provide students with an engineering education with breadth across the engineering disciplines, combined
+        with some specialist learning, delivered with design as an integrating feature.\n\n
+    iv. To understand the importance of professionalism, management, and problem solving techniques for works.\n\n
+    v. To allow career progression and educational development to study for a Masters degree
+    Civil engineering students learn how to analyze and solve problems related to construction and maintenance of bridges,
+        buildings, airports, waterways, and water and waste-water treatment facilities, hydraulic structures.\n\n
+      vi.  they also learn how to communicate their solutions of these problems (their designs) to others and how to transform their
+        designs into reality. Civil engineering is a challenging, creative and satisfying career.\n\n
+
+    Students also have a unique opportunity to experience aspects of the civil engineering profession by making visits to sites.\n
+
+        Civil Engineering graduates are expected to be able to:\n\n
+
+    1. formulate and prepare project proposals and plans.\n\n
+    2. design, analyse, prepare working drawings and estimates of various civil engineering structures
+    execute/supervise the construction of various civil engineering structures.\n\n
+    3. carry out survey for civil engineering works.\n\n
+    4. carry out feasibility studies for civil engineering projects.\n\n
+    5. prepare bid documents, specifications of works and evaluate tenders\n\n
+    6. adapt to new technologies/developments.\n\n
+    7. manage projects and other civil engineering related tasks.\n\n
+    </string>
+
+    <string name="electrical">
+
+        The Bachelor of Engineering in Electrical Engineering takes minimum of four years full time.
+
+        The programme provides access to larger numbers of suitably qualified nationals to be trained as engineers
+        to meet the needs of Bhutan. The increased supply of engineers would also support private sector growth thereby
+        creating additional jobs and strengthening the economy. The courses have been designed to meet the requirements
+        of Bhutan’s unique engineering demand. The graduates will find employment in Civil Service, Corporations and
+        Private sector.\n\n
+
+        The Institute aims to be innovative in course and curriculum development in order\n\n
+
+        i. To attract and recruit students of good academic ability and potential from all social groups.\n\n
+        ii. To develop the potential of each student to meet new challenges and to lay the foundation of versatility
+        of thinking they will need in careers as professional engineers.\n\n
+        iii. To provide students with an engineering education with breadth across the engineering disciplines,
+        combined with some specialised learning, delivered with design and problem solving as an integral feature.\n\n
+        iv. To understand the importance of professionalism, management, and problem solving techniques for works.\n\n
+        v. To allow career progression and educational development to study for a Masters degree
+        Electrical engineering is a challenging but exciting and rewarding area of study. It is a rapidly advancing
+        field that is having a significant impact on shaping modern society. By studying electrical engineering students
+        will be able to understand the significant developments in modern technology and be prepared to play a role
+        in shaping its future.\n\n
+
+        Students also have a unique opportunity to experience aspects of the Electrical engineering profession by
+        making short visits to sites.
+        The Undergraduate Degree programme in Electrical Engineering centers about analysis, design of components
+        and system and transform the designs into reality.\n\n
+
+        The electrical engineering graduate are expected to be able to:\n\n
+
+       1. Plan and implement electrical power system, control system and communication system.\n\n
+       2. formulate/prepare proposals and project plans.\n\n
+        3. design and estimate electrical installation works/systems.\n\n
+        4. execute/supervise the implementation of electrical works with quality control measures.\n\n
+        5. use relevant software for electrical engineering works.\n\n
+        6. conduct research studies to enhance professional development.\n\n
+
+    </string>
+
+    <string name="electronic">
+
+    Specific Objectives of the Degree Programme in Electronics and Communication Engineering.\n\n
+
+    The Electronics and Communication Engineering graduates are expected to be able to:\n\n
+
+    1. plan, analyze, design and develop application of devices and systems involving electronic components.\n\n
+    2. plan, analyze, design, implement and manage communication system and network infrastructure with quality
+        control measures and be environmentally conscious.\n\n
+   3.  identify, analyze, formulate and solve electronics and communication engineering problems.\n\n
+    4. formulate/prepare proposals and project plans.\n\n
+   5.  critically evaluate information, create and critique logical arguments using quantitative reasoning.\n\n
+  6.  work in multi-disciplinary environment and communicate effectively.\n\n
+    7. prepare for graduate works and research in at least area of ECE field of practice.\n\n
+    </string>
+    <string name="it">
+
+            The Bachelor of Engineering in Information Technology is a new programme  scheduled to
+           commence from July 2010. The curriculum was developed by the faculty of IT at CST conducting
+        series of review workshop involving experts within Bhutan and professors from UNB(Canada) and IIT(Kharagpur).\n\n
+
+            The BE(IT)  programme was approved to commence by the Programme Quality Committee of Royal University of Bhutan.\n\n
+
+            Specific Objectives:\n
+            As Information Technology graduates they are expected to be able to:\n\n
+
+            1. Understand and demonstrate information technology applications.\n\n
+            2. Plan, design, develop, test, and implement IT systems.\n\n
+            3. Identify, analyse, and solve Information Technology problems.\n\n
+            4. Carry out operation and maintenance of network system: Software and Hardware.\n\n
+            5. Formulate/Prepare proposals for new systems and project plans.\n\n
+            6. work in multi-disciplinary environment and communicate effectively.\n\n
+            7. Execute/Supervise the implementation of IT system.\n\n
+            8. Use relevant software and hardware for coding, code verification and testing.\n\n
+            9. Take up diverse profession and lifelong learning.\n\n
+            10. Conduct research studies in the field of IT.\n\n
+            11. Self employment.\n\n
+
+
+
+    </string>
+
+    <string name="architect">
+
+    Architecture is the physical representation of a society, this programme will is intended
+        to study the soul and role of traditional Bhutanese Architecture and integrate it into the
+    best present day curriculum practiced all over. This programme shall be made relevant to the
+    site and scenario in Bhutanese climate, context where learners will have their study tour and
+    project sites in hilly region. The learners will be encouraged solve the problem of designing
+    in hilly region using the concepts of Organic Architecture and green building concepts.
+    The programme is expected to incorporate the rich Bhutanese Arts, paintings and sculptures
+    into the mainstream programme and is aimed to be dynamic and innovative in its course and curriculum refinement.\n\n
+
+    Aims and objectives of the Programme.\n\n
+
+    1. To provide excellence in Architectural Education and the design of the built environment.\n\n
+    2. To preserve and promote Architecture as an important feature of Bhutanese identity.\n\
+    3. To prepare the student for professional qualification of an Architect or for subsequent higher education.\n\n
+    4. To develop skills in critical thinking, discussions, presentation and team work through seminar presentations,
+    case studies, study tours, writings and studio activities.\n\n
+    </string>
+
+
+    <string name="Vision">
+
+      \n  “A centre of excellence in science and technology enriched with GNH values. “
+
+
+    </string>
+
+    <string name="Mission">
+
+
+       \n  To offer internationally recognized programs in science and technology.\n
+         To generate new knowledge through research and innovation to fulfill the needs of the society.\n
+         To collaborate with stakeholders and provide expert services.\n
+         To provide community services to enhance GNH based society.
+
+
+
+    </string>
+
+    <string name="app">
+
+    i. Merit Certificate awarded to academic Toppers.\n
+    \n
+    ii. Merit of Certificate awarded to students who score 80% and above.\n
+    \n
+    iii.Full Scholarship for finance students if they score 75% and above.\n
+    \n
+        iv. Students in First Semester can change their course if they score 70% and above.</string>
+
+    <string name="responsibilities">
+                Students of the university have the following responsibilities to:\n\n
+                1  Apply themselves to their studies to their abilities;\n\n
+                2 Become familiar with thw rules and regulations governing the degree in which thay are enrolled,and to ensure that the mdule selected meet the award requirements;\n\n
+                3 Be aware of the policies practices and expectations of the university set out in the RUB Wheel of the Academy Law (RUB 2008) and of any college and department in which they are enrolled and which are contained in the module materials and information made availibale to them;\n\n
+                4 Be aware of, and act according to, the rules and regulations concerning the use of the college computing , library and other facilities, and so to respect the rights of other learners;\n\n
+                5 Meet the deadlines for module work to be submitted;\n\n
+                6 Take the initiative and consult appropriately when problems arise in any module ;\n\n
+                7 Submit original work for assessment without plagiarizing or cheating;\n\n
+                8 Attend all organised teaching activities,including professional placements ,for each module in which they are enrolled and, for distance education students, to consider thoroughtly all program materials and participate in all prescribed residental schools;\n\n
+                9 Accept joint responsibilty for their own learning along with the teaching staff.\n\n
+                10 Provide feedback to staff about (a) teaching and learning practice and (b) the quality;\n\n
+                If modules as well to contribute to the development of university programs and policies as appropriate:\n\n
+                11 Abide by the university's policies on occupational health  and safety so that they can study in a safe and healthy environment;\n\n
+                12 Be aware of the university's commitment to equal opportunity and to demonstratte tolerance and respect for all members of the university community including respect of the right staff members to express view;\n\n
+                13 Respect the working environment of others in all areas of the university.\n\n
+                NOTE: Infringement of responsibility d) and g) may lead to the disciplinary action. </string>
+
+    <string name="title_activity_student">StudentActivity</string>
+</resources>
