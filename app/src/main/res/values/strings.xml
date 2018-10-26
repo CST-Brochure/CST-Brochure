@@ -201,7 +201,7 @@
 
     <string name="responsibilities">
                 Students of the university have the following responsibilities to:\n\n
-                1  Apply themselves to their studies to their abilities;\n\n
+                1 Apply themselves to their studies to their abilities;\n\n
                 2 Become familiar with thw rules and regulations governing the degree in which thay are enrolled,and to ensure that the mdule selected meet the award requirements;\n\n
                 3 Be aware of the policies practices and expectations of the university set out in the RUB Wheel of the Academy Law (RUB 2008) and of any college and department in which they are enrolled and which are contained in the module materials and information made availibale to them;\n\n
                 4 Be aware of, and act according to, the rules and regulations concerning the use of the college computing , library and other facilities, and so to respect the rights of other learners;\n\n
@@ -212,10 +212,11 @@
                 9 Accept joint responsibilty for their own learning along with the teaching staff.\n\n
                 10 Provide feedback to staff about (a) teaching and learning practice and (b) the quality;\n\n
                 If modules as well to contribute to the development of university programs and policies as appropriate:\n\n
-                11 Abide by the university's policies on occupational health  and safety so that they can study in a safe and healthy environment;\n\n
-                12 Be aware of the university's commitment to equal opportunity and to demonstratte tolerance and respect for all members of the university community including respect of the right staff members to express view;\n\n
+                11 Abide by the university\'s policies on occupational health  and safety so that they can study in a safe and healthy environment;\n\n
+                12 Be aware of the university\'s commitment to equal opportunity and to demonstratte tolerance and respect for all members of the university community including respect of the right staff members to express view;\n\n
                 13 Respect the working environment of others in all areas of the university.\n\n
                 NOTE: Infringement of responsibility d) and g) may lead to the disciplinary action. </string>
 
     <string name="title_activity_student">StudentActivity</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
