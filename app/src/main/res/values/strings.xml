@@ -1,28 +1,85 @@
 <resources>
-    <string name="app_name">CST BROCHURE</string>
+    <string name="app_name">CST</string>
 
-    <string name="why">CST is a place where brilliant minds assemble and collaborate,
-        where they pool together their individual talents across departments in service
-        of big ideas and creative solutions. It is a vibrant community teeming with students
-        collaborating with experts and specialists: a hub of innovation and creativity.
-        It is an intersection of diversity, a launching pad for a brilliant career,
-        and a highly unique state of mind. It is a perfect environment in which to
-         pursue your passion. Here, the future is envisioned each day.
-        And remade each day after.</string>
+    <string name="why">CST is a place where brilliant minds assemble and collaborate,where they
+        pool together their individual talents across departments in service of big ideas and
+        creative solutions. It is a vibrant community teeming with students collaborating with
+        experts and specialists: a hub of innovation and creativity. It is an intersection of
+        diversity, a launching pad for a brilliant career, and a highly unique state of mind. It
+        is a perfect environment in which to pursue your passion. Here, the future is envisioned
+        each day. And remade each day after.</string>
 
-    <string name="Fashion">Fashion Show
-        In the world of fashion and modeling, fashion shows are of extraordinary importance.
-        Their popularity has risen rapidly, becoming one of the leading events in the world of fashion.</string>
+    <string name="Fashion">Apart from studies, our keen enthusiasm to engross in non academic remains highly
+        motivated and hugely inspired. It showcase and testimony that young one needs to
+        groom with exceptional perspicacity in later career. Pursuing this objective, NDLD
+        club organize fashion show to inculcate the senses of enthrallment and engagement
+        to all our students. The club ensures to participate every individual from each
+        department. This harbingers to manifest the dimensional talents of our students.
+        Most importantly it gets most of our students involved which is fundamental of
+        participation is better than winning. The themes distributed based on their individual
+        selections. The vastness of theme includes: weather, session, education, water,
+        happiness etc .It is not compulsory for every students to be the audience and witness
+        the show. The fact is everyone make their way to this very show and hall would fraught
+        with laugh and immense discourse.  The participants are made to walk among the audience
+        wearing jazzy dress keeping their theme in the mind. Most interestingly refreshments are
+        also served to all the audience .The varieties of the cultural show are also performed
+        so that every parts of the activities become more meaningful.  The attractive and
+        stunning prizes are also awarded to all the participants and remarking prizes are
+        arranged for winner and runner up.
+        </string>
 
-    <string name="Tag">Tag night is a time where we get to dance with the person you admire the most by giving tag to them :) </string>
+    <string name="Tag">Tag night is a moment where student especially first year girls get an opportunity to
+        showcase their talent. Tag night is organized by final year students where our mess is
+        decorated and they also prepare a stage where people can ramp walk on it. All the
+        students make their presence in the mess in the given time and the program starts by
+        the welcoming the first-year students. Firstly, our college Chief Councilor have to
+        share few words then do ramp walk which is then followed by our Girl VC then comes our
+        formal Miss CST, Miss Tag and Miss Ever Green. Above mentioned are the judges for
+        the night. They judge the first-year girls based on their confidence at first round.
+        For the second round 15 girls are being selected from the first round then they have
+        to show their talent and answer some questions that is asked by the judges. Girl with
+        the highest points from all judges is being selected as a Miss CST. Not only that
+        during the tag night girl with the highest tag gets the title as Miss Tag then the
+        boy who has purchased more tag is given a title as Mr. Expensive. As Miss CST and Miss
+        Tag is selected from first year and Mr. Expensive can be anyone that buys more tag.
+        Mr. Gentle man is being judged by the judges and only final year boys can compete for
+        the Mr. Gentleman title. Finally comes our Miss Evergreen. This title is being awarded
+        to someone from the third-year female with a feature of remaining same, young and
+        beautiful from first-year till the third-year. At last Tag night winds up by awarding
+        all the titles to the deserving souls.
 
-    <string name="Intro">Introduction Night is conducted esecially for the freshers so that they can show their talent
-        and to introduce themselves</string>
+    </string>
 
-    <string name="Prayer">Whether we pray aloud or pray silently in our hearts in fleeting moments of need,
-        prayer is a personal form of communication where we can speak directly with our Father in Heaven.</string>
+    <string name="Intro">Introduction night which is also commonly called as Intro night is
+        being held every odd semester to welcome the fresher\’s. It is organized by students
+        of Third year. During the event fresher\’s are firstly given small and beautifully
+        handmade badges. Then after the arrival of all the students in the hall, first years
+        are asked to go up on the well decorated stage and introduce themselves. In the
+        introduction it includes their name, name of their previous school and their relationship
+        status. Fresher\’s can also show their talents if they have any. Their talents will be
+        judged by the Chief Councilor and other councilors and those fresher with best
+        introduction will be awarded with gifts. The event is ended by the jam session where
+        everyone dance to their fullest.
+    </string>
 
-    <string name="Diwali">The festival gets its name from the row (avali) of clay lamps (deepa) that southern bhutanses light outside their homes to symbolize the inner light that protects from spiritual darkness.</string>
+    <string name="Prayer">Whether we pray aloud or pray silently in our hearts in fleeting
+        moments of need, prayer is a personal form of communication where we can speak
+        directly with our Father in Heaven. Prayers are conducted on Thursday especially
+        after classes are over. For hall arrangement first or second year-students have to be
+        to be present alternatively. All the students are compulsory except final year as they
+        can join if they are interested. Students pray for almost one and half hours but during
+        auspious day, student pray for  almost 2 and half hours.
+    </string>
+
+    <string name="Diwali">The festival gets its name from the row (avali) of clay lamps (deepa) that
+        southern bhutanses light outside their homes to symbolize the inner light that protects from
+        spiritual darkness.  The festival usually falls between the middle of October and the middle
+        of November, although this is decided upon by the Hindu lunar calendar. While each faith has
+        its own reason to celebrate the festival, one of the most popular stories told is the legend
+        of Lord Rama and his wife Sita returning to their kingdom in northern India from exile after
+        defeating the demon king Ravanna in the 15th century BC. Diwali in our college is organized
+        by the Third year students. They prepare a prayer followed by fun activities for the students.
+    </string>
     <string name="title_activity_nav">Nav</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -219,4 +276,160 @@
 
     <string name="title_activity_student">StudentActivity</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+    <string name="kuen">
+        Kindness is doing something and not expecting anything in return. Kindness is respect and
+        helping others without waiting for someone to help one back. It implies kindness no matter
+        what. An act of kindness is a spontaneous gesture of goodwill towards someone or something
+        –KuenphenTshokpa club performs many acts of kindness each day. They raise funds by installing
+        food stall during different occasion and with the fund they have generated are used to help
+        needy ones. They raised funds through the charity show and helped those poor section of the
+        people. They visits the nearby places and make their path to reach in all the needy places.
+    </string>
+
+    <string name="acm">ACM local chapters engage members through talks by local practitioners, visits
+        from prominent speakers from the ACM Distinguished Speakers Program, technical and career
+        workshops, field trips to computing installations, and social activities.Chapters are the
+        engines that drive networking and learning on a local level. It also enlists to boost the
+        skills and helps to assimilate the knowledge through ACM chapter. All students from IT
+        department are offered the avenue to become a member of the ACM chapter. With this, the new
+        members are taught on software installation and other  necessary requirements by the seniors
+        and lectures. Moreover the  day are also fixed whereby the members get together and involve
+        in the meaningful discourses. So with this regard on promoting the skills , they also
+        conduct the programming  contest so that the knowledge that gained from the particular
+        session are awarded.
+
+
+
+    </string>
+    <string name="nature">Nature club is an autonomous organization of nature lovers from various
+        departments of the college.Communing with nature is good for a student\'s psychological and
+        physical well-being. It can help reduce stress, improve concentration and increase time spent
+        being physically active. nature clubs are one way to encourage children to spend more time
+        outside; and there are numerous opportunities to make that time spent in nature entertaining
+        and educational. We believe in plantation of tress and consequence of the nature if it is
+        badly depleted. We ensure that our trees are not chopped and sensitize them not to destroy.
+        We celebrate the social forestry day and our nature club  organize the event.
+
+
+    </string>
+    <string name="bto">CST BTO members play vital roles in advocating and inculcating the sense of 
+        responsibility other than just cleaning the toilets. We want to encourage the youth to engage
+        in social service. If all the youth join hands to make a small contribution by every
+        individual, then we would see a better tomorrow. CST\'s first action started with our own
+        college to bring awareness among ourselves. Many a time toilet issue is left out, people 
+        talk lot more about planting trees and managing wastes but there is a big question mark why 
+        no people is concerned about the hygiene. We, CST BTO members are not going to stay idle
+        watching this. The club was introduced recently on seeing the reality of the circumstances
+        prevailing in our country. Besides the concerned and focal person who are obliged to do
+        things, it is always   better to get together and move together. As cleanliness is next to 
+        the goodness, we  will remain mindful of our duty by cleaning  the toilets in our small way.
+        Not only our club work together in the college, we also volunteer ourselves and make sure to 
+        visit the nearby place to render our helping hand. One  could be obvious that we monitor our
+        college toilets by ensuring every students to at least clean the toilet. We sensitize and
+        make awareness so that the ultimate's repercussion is always our joyous.    
+
+
+    </string>
+    <string name="ypeer">Y-Peer Club intend to serve as the unalterable, fundamental platform for
+        young generation to sophisticate their leadership skills, to be heard and explain their basic
+        core messages to the modern world. Moreover, the club could be assessed as the unique
+        platform with diversified horizons, that warmly welcomes the diversity of interpretations,
+        perceptions and along with that promotes the conception of pluralism. The designated club
+        entirely dedicated to the construction of efficient discussion within the relevant areas,
+        reshaping and properly formulating the precise visions and glances, excogitation of
+        groundbreaking and innovative approaches for settling the actual problematic issues.
+
+
+    </string>
 </resources>

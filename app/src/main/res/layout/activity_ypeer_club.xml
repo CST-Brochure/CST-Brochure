@@ -7,44 +7,42 @@
     android:layout_height="match_parent"
     android:background="#014c64"
     android:backgroundTint="@color/colorPrimary"
-    android:orientation="vertical"
-    tools:context="com.example.sonam.cstbrochurenav.Award">
+    tools:context="com.example.sonam.cstbrochurenav.YpeerClub">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="vertical">
 
         <TextView
-            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="TimesNewRoman"
-            android:gravity="center"
-            android:paddingTop="20dp"
-            android:text="Special Awards\n"
-            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-            android:textColor="@color/tabtextcolor"
+            android:textColor="#fff"
             android:textStyle="bold"
-
-            />
+            android:text="CST Y-Peer Club"/>
 
 
         <ImageView
             android:layout_width="300dp"
             android:layout_height="200dp"
             android:gravity="center"
-            android:src="@drawable/aw" />
-
-
+            android:paddingTop="30dp"
+            android:src="@drawable/ypeer"
+            />
         <TextView
-            android:layout_width="match_parent"
+            android:paddingTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="20dp"
-            android:text="@string/app"
-            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
-            android:textColor="@color/tabtextcolor"
-            android:layout_marginBottom="30dp"/>
+            android:textColor="#fff"
+            android:layout_marginBottom="30dp"
+            android:text="@string/ypeer"/>
+
 
     </LinearLayout>
 

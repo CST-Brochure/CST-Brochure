@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#014c64"
     android:gravity="center">
 
     <LinearLayout
@@ -12,9 +13,35 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
+        <TextView
+            android:textColor="@color/tabtextcolor"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Evening Prayer"/>
+
+
+        <ImageView
+            android:paddingTop="60px"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="25dp"
+            android:scaleType="fitXY"
+            android:textStyle="bold"
+            android:src="@drawable/prayer"
+            android:textAlignment="gravity" />
+
 
         <TextView
+            android:textColor="@color/tabtextcolor"
             android:id="@+id/Payer"
+            android:textAlignment="textStart"
             android:layout_width="wrap_content"
             android:paddingTop="5dp"
             android:layout_height="wrap_content"
@@ -24,21 +51,9 @@
             android:gravity="center"
             android:text="@string/Prayer"
             android:textSize="14sp"
-            android:textStyle="bold" />
+            android:layout_marginBottom="30dp"
+            />
 
-        <ImageView
-
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginBottom="25dp"
-            android:scaleType="fitXY"
-            android:src="@drawable/prayer"
-            android:textAlignment="gravity" />
 
     </LinearLayout>
 </ScrollView>

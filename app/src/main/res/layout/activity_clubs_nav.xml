@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#014c64"
+    android:backgroundTint="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context="com.example.sonam.cstbrochurenav.ClubsNav">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Clubs In CST"
+            android:textSize="28sp"
+            android:gravity="center"
+            android:padding="20sp"
+            android:textColor="#ffff"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="310dp"
+            android:layout_height="48dp"
+            android:background="@drawable/button_background"
+            android:padding="14dp"
+            android:text="Kuenphen Tshogpa"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="141dp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="313dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/button_background"
+            android:padding="14dp"
+            android:text="CST ACM Chapter"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="141dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="311dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/button_background"
+            android:padding="14dp"
+            android:text="Environmental Club"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="141dp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="311dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/button_background"
+            android:padding="14dp"
+            android:text="CST BTO club"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="141dp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="313dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/button_background"
+            android:padding="14dp"
+            android:text="CST Y-PEER Club"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="141dp" />
+    </LinearLayout>
+
+</ScrollView>

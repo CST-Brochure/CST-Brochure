@@ -3,6 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
+    android:background="#014c64"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_weight="1">
@@ -13,21 +14,17 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:id="@+id/Intro"
+            android:textColor="@color/tabtextcolor"
+            android:layout_marginTop="15dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_margin="20dp"
-            android:gravity="center"
-            android:text="@string/Intro"
-            android:textSize="14sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:text="INTRODUCTION NIGHT"/>
 
         <ImageView
-
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:paddingTop="60px"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
             android:layout_alignParentBottom="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentLeft="true"
@@ -35,8 +32,26 @@
             android:layout_alignParentRight="true"
             android:layout_alignParentStart="true"
             android:src="@drawable/intro"
-            android:layout_marginBottom="25dp"
             android:textAlignment="gravity" />
+
+
+
+        <TextView
+            android:textColor="@color/tabtextcolor"
+            android:id="@+id/Intro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="20dp"
+            android:textAlignment="textStart"
+            android:gravity="center"
+            android:text="@string/Intro"
+            android:textSize="14sp"
+            android:layout_marginBottom="30dp"
+             />
+
+
 
 
     </LinearLayout>

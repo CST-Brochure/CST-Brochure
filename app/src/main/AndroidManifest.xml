@@ -11,9 +11,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/cstlogo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/cstlogo"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
@@ -31,7 +31,7 @@
             android:name=".Architecture"
             android:label="Architecture"
             android:parentActivityName=".MainActivity"
-            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"></activity>
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
         <activity
             android:name=".Award"
             android:label="Academic Awards"
@@ -39,7 +39,7 @@
             android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
         <activity
             android:name=".Civil"
-            android:label="Cival"
+            android:label="Civil"
             android:parentActivityName=".MainActivity"
             android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
         <activity
@@ -85,7 +85,43 @@
 
         <activity
             android:name=".MapsActivity"
-            android:label="@string/title_activity_maps"></activity>
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".ClubsNav"
+            android:label="Clubs"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name=".KuenphenT"
+            android:label="Kuenphentshogpa"
+            android:parentActivityName=".ClubsNav"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name=".AcmChapter"
+            android:label="CST ACM Chapter"
+            android:parentActivityName=".ClubsNav"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name=".BtoClub"
+            android:label="CST BTO Club"
+            android:parentActivityName=".ClubsNav"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name=".NatureClub"
+            android:label="CST Nature Club"
+            android:parentActivityName=".ClubsNav"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name=".YpeerClub"
+            android:label="CST Y-PEER Club"
+            android:parentActivityName=".ClubsNav"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name=".ContactUs"
+            android:label="Contact Information"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+            ></activity>
     </application>
 
 </manifest>
